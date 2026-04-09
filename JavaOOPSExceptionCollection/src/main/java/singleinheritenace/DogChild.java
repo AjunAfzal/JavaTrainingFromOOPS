@@ -7,7 +7,8 @@ public class DogChild extends AnimalParent
 		System.out.println("Dog runs at 40kmph");
 	}
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		// TODO Auto-generated method stub
 		DogChild out=new DogChild();
 		out.running();
